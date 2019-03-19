@@ -100,10 +100,6 @@ h1 {
 }
 
 .main_1 {
-     -webkit-column-count: 1;
-       -webkit-column-gap: 20px;
-       -moz-column-count: 1;
-       -moz-column-gap: 20px;
        column-count: 5;
        column-gap: 20px;
        text-align:justify;
