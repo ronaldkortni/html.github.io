@@ -1,0 +1,205 @@
+.wrapper{
+    margin: 0;
+    font-family: OpenSans, Anrial;
+
+}
+
+
+
+
+.header_logo {
+    background:black;
+    height:60px;
+    margin-top:-13;
+}
+
+.logo {
+    color: white;
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+
+.text_logo {
+}
+
+h1 {
+    padding-top:10px;
+}
+
+
+.sidebar {
+    text-align: center;
+
+}
+
+
+.sidebar p{
+    font-size: 23px;
+    display: inline-block;
+    margin-top:-50px;
+    position: relative;
+    top:-46px;
+}
+
+.sidebar a {
+        color:#f0e3e3;
+        text-decoration: none;
+        padding: 30 30;
+}
+
+
+
+
+.showcase {
+    background-image: url(../img/back.jpg);
+    height: 210px;
+}
+
+.show_text {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    position: relative;
+    top:10px;
+}
+
+
+
+.side_2 {
+    text-align: center;
+
+}
+
+.sidebar_2 p {
+    position: relative;
+    display: inline-flex;
+    font-size:17
+    
+}
+
+
+
+.sidebar_2 a {
+    padding: 0 20;
+    padding-top: 20px;
+}
+
+
+.sidebar_pol {
+    padding-top: 20px;
+    border-bottom: 1px solid gray;
+    
+}
+
+
+
+.main{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.main_1 {
+     -webkit-column-count: 1;
+       -webkit-column-gap: 20px;
+       -moz-column-count: 1;
+       -moz-column-gap: 20px;
+       column-count: 5;
+       column-gap: 20px;
+       text-align:justify;
+
+}
+
+
+.main_1 img{
+    border-radius: 20px;
+}
+
+.main_2 img{
+    border-radius: 20px;
+}
+
+
+
+.main_3 img{
+    border-radius: 20px;
+}
+
+
+
+.main_4 img{
+    border-radius: 20px;
+}
+
+
+.main_5 img{
+    border-radius: 20px;
+}
+
+.main_2 {
+       column-count: 5;
+       column-gap: 20px;
+       text-align:justify;
+       padding-top: 10px;
+
+}
+
+
+.main_3 {
+       column-count: 5;
+       column-gap: 20px;
+       text-align:justify;
+       padding-top: 10px;
+}
+
+
+.main_4 {
+       column-count: 5;
+       column-gap: 20px;
+       text-align:justify;
+       padding-top: 10px;
+}
+
+
+.main_5 {
+       column-count: 5;
+       column-gap: 20px;
+       text-align:justify;
+       padding-top: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.main_1 img:hover {
+    border-radius: 0px;
+}
+
+.main_2 img:hover {
+    border-radius: 0px;
+}
+
+.main_3 img:hover {
+    border-radius: 0px;
+}
+
+.main_4 img:hover {
+    border-radius: 0px;
+}
+
+.main_5 img:hover {
+    border-radius: 0px;
+}
+
+
+.footer {
+    background: black;
+    height:50px;
+}
+
+.foot_text {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
